@@ -1,2 +1,2 @@
 Added a line to a file. will push to main branch
-second line
+modified second line in the branch, will be merged to master
