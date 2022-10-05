@@ -1,0 +1,1 @@
+created a second file to delete it later in order to practice git rm
